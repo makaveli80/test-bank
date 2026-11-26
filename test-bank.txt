@@ -13,9 +13,9 @@ TRANSACTION|(-70,-50)|06/06/20|TALTO SEL MELLIS||1301|15|5
 TRANSACTION|(1400,1500)|28/05/20|SALARY||1302|1|2
 TRANSACTION|-30|19/10/22|Withdrawal DAB BNP Aix||1303
 # This will create a transaction every 21 days starting on 26/10/22, with a random amount between -9€ and -7€
-TRANSACTION|(-9,-7)|26/10/22|KEBAB||1306|21|20
-TRANSACTION|(-13,-11)|02/11/22|OTACOS||1307|21|20
-TRANSACTION|(-10,-8)|09/11/22|BURGER KING||1308|21|20
+TRANSACTION|(-9,-7)|26/10/22|KEBAB||1306|21|3
+TRANSACTION|(-13,-11)|02/11/22|OTACOS||1307|21|3
+TRANSACTION|(-10,-8)|09/11/22|BURGER KING||1308|21|3
 
 ### Saving accounts available by scraping from the Linxo Test Bank 
 ACCOUNT|account2-uid|PEL|24/08/17|998|Savings||false
